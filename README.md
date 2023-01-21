@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **fiverr freelancing**
 
-- 🌱 I’m currently learning **spring boot,flutter,react and every thing**
+- 🌱 I’m currently learning **flutter,React,Node.js and every thing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SankhaYapa?tab=repositories](https://github.com/SankhaYapa?tab=repositories)
 
