@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter,React,Node.js and every thing**
 
-- 📫 How to reach me sankhapriyamantha55.com
+- 📫 How to reach me <a>sankhapriyamantha55.com</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SankhaYapa?tab=repositories](https://github.com/SankhaYapa?tab=repositories)
 
