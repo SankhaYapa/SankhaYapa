@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sankhapriyaman1" target="blank"><img src="https://img.shields.io/twitter/follow/sankhapriyaman1?logo=twitter&style=for-the-badge" alt="sankhapriyaman1" /></a> </p>
 
-- 🔭 I’m currently working on **fiverr freelancing**
+- 🔭 I’m currently working on **One Billion Technology**
 
 - 🌱 I’m currently learning **flutter,React,Node.js and every thing**
 
